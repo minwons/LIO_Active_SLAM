@@ -63,7 +63,7 @@ rosrun lio_active_slam LIO.py
 ## Configuration
 
 Key parameters can be configured in the constructor of the `graph_active_slam` class:
-- `sim_env`: Simulation environment (1: 8 rooms, 2: 32 rooms, 3: UC1)
+- `sim_env`: Simulation environment
 - `lidar_range_noise`: Lidar range noise parameter
 - `R_odom`: Odometry noise covariance matrix
 - `keyframe_distance`: Minimum distance between keyframes
