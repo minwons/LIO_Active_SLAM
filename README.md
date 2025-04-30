@@ -2,7 +2,7 @@
 
 This package implements Graph-based SLAM with active exploration capabilities.
 
-![Graph-based SLAM Example](Figure/Figure_1.png)
+<img src="Figure/Figure_1.png" width="600" alt="Graph-based SLAM Example">
 
 ## Dependencies
 
