@@ -2,6 +2,8 @@
 
 This package implements Graph-based SLAM with active exploration capabilities.
 
+![Graph-based SLAM Example](Figure_1.png)
+
 ## Dependencies
 
 ### ROS Dependencies
